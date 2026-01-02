@@ -1,20 +1,20 @@
 How to fill:
-Use this to record quality review results.
+Fill this after reviewing each batch.
 
 Batch Name:
 Batch-01
 
-Items Reviewed:
+Total Items Reviewed:
 Number
 
 Issues Found:
-Short description or None
+Yes / No
 
-Quality Status:
-Pass / Fail
+If Yes, describe issues:
+Short description
+
+Final QA Status:
+Approved / Needs Rework
 
 Reviewer Name:
 Name
-
-Remarks:
-Optional notes
