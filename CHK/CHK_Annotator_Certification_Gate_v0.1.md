@@ -9,7 +9,7 @@ Inputs Ready:
 - [ ] Label specification document is shared
 - [ ] Edge case library is shared
 
-🚫 Stop-the-line:
+Stop-the-line:
 - [ ] If annotator has not read the label spec, stop
 
 ---
@@ -19,7 +19,7 @@ Process OK:
 - [ ] Quiz pass criteria is met
 - [ ] Sample annotation is reviewed once
 
-🚫 Stop-the-line:
+Stop-the-line:
 - [ ] If quiz is failed, do not assign batches
 
 ---
