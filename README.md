@@ -74,3 +74,23 @@ What broke:
 Assumptions:
 - QA is performed on all batches before delivery
 
+Day 5 – Closure
+
+What I produced today:
+- SOP for delivery packaging, acceptance signoff, and project closure
+- Acceptance signoff template
+- Delivery package template
+- Retro/postmortem template
+- Closure gate checklist
+
+What I tested in the tool:
+- Verified final annotated data and QA-approved outputs
+- Checked that all required files are ready for delivery
+
+What broke:
+- Nothing broke during closure activities
+
+Assumptions:
+- All batches have already passed QA and delivery gate
+
+
